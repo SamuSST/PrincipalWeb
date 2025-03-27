@@ -1,4 +1,1 @@
-echo "principalweb.com" > CNAME
-git add CNAME
-git commit -m "Añadir CNAME para dominio personalizado"
-git push
+sitiosamu.io
